@@ -15,7 +15,7 @@ unsigned long m, n, p, carry;
 count = 0;
 i = 0;
 j = 1;
-for (count = 1; count <= 91; count++ )
+for (count = 1; count <= 91; count++)
 
 {
 k = i + j;
@@ -44,7 +44,7 @@ else
 printf("%lu0%lu", k, p);
 if (count != 98)
 printf(", ");
-count++ ;
+count++;
 }
 
 putchar('\n');
