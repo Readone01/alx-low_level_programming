@@ -1,3 +1,5 @@
+#include "main.h"
+
 /**
 * print_last_digit - prints the last digit of the given vakue
 * @value: the given value
@@ -25,4 +27,5 @@ return (remain);
 }
 
 return (0);
+}
 }
