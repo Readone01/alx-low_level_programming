@@ -20,11 +20,12 @@ while (b <= 9)
 
 {
 c = a * b;
-printf("%d,  ", c);
+printf("%d, ", c);
 b++;
 }
 
 printf("\n");
 a++;
 }
+
 }
