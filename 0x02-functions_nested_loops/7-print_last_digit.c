@@ -26,6 +26,7 @@ _putchar(remain + '0');
 return (remain);
 }
 
+{
 return (0);
 }
 }
