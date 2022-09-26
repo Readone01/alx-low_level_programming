@@ -27,5 +27,4 @@ j++;
 _putchar ('\n'); /*print new line*/
 i++; /*add +1*/
 }
-
 }
