@@ -1,11 +1,17 @@
-#ifndef MAIN_H
-#define MAIN_H
-
 #include <stdio.h>
-#include <stdlib.h>
-#include <ctype.h>
 
-int _putchar(char c);
-int main(int argc, char* argv[]);
+/**
+* main - prints its name
+* @argc: the number of arguments passed.
+* @argv: the pointer to an array of pointers.
+*
+* Return: Always 0
+*/
 
-#endif /*MAIN_H*/
+int main(int argc, char *argv[])
+
+{
+while (argc--)
+puts(*argv++);
+return (0);
+}
