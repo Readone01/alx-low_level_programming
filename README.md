@@ -1,1 +1,2 @@
-The Project Task on Even More Pointers, Arrays and Strings.
+#!/bin/bash
+I am progressing into Static Libraries
